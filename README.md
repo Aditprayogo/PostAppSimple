@@ -12,4 +12,4 @@ Clean architecture is a software design philosophy that separates the elements o
 ## Demo
 |Home Screen|Detail Screen|Detail Screen|
 |--|--|--|
-|![](assets/mainmenu.png?raw=true)|![](assets/detail.png?raw=true)|![](assets/detail2.png?raw=true)|
+|![](assets/mainmenu.png?raw=true)|![](assets/detail1.png?raw=true)|![](assets/detail2.png?raw=true)|
