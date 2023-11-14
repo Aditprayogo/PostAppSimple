@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PostAppSimple</string>
+    <string name="imgarticle">imgArticle</string>
+    <string name="text_null">Null</string>
+    <string name="text_content">Content</string>
+    <string name="text_date">Date</string>
+    <string name="text_contributor">Contributor</string>
+    <string name="text_contributor_image">ivContributor</string>
+</resources>
